@@ -1,0 +1,8 @@
+Enable On-The-Network MSSQL Server
+1. Configure SQL Management Configuration Manager
+2. Enable the TCP/IP Connection
+3. Add port 49159 to Dynamic Port(All) and 1433 on Generic Port
+Connection String POC
+string connStr = @"Data Source=WINDOWSPC,49159;Initial Catalog=EVENTDB;Network Library=DBMSSOCN;Integrated Security=false;User Id=sa;Password=hackerone;";
+
+Additionally, Disable firewall; # Not recommended;

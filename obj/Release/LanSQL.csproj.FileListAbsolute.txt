@@ -1,0 +1,9 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\bin\Release\LanSQL.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\bin\Release\LanSQL.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\bin\Release\LanSQL.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.Form1.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\LanSQL\obj\Release\LanSQL.pdb
